@@ -265,6 +265,19 @@ span
 
 }
 
+.experience_img_div
+{
+    /* background-color: red; */
+    width: 32%;
+    margin: auto;
+}
+.experience_img_tag
+{
+    
+    width: 100%;
+    padding:0 17px 0px 17px;
+ 
+}
 .services-container .services-box
 {
     flex: 1 1 30rem;
@@ -345,7 +358,6 @@ span
 
 .portfolio-box .portfolio-layer
 {
-    overflow:auto;
     position: absolute;
     bottom: 0;
     left: 0;
