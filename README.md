@@ -7,4 +7,5 @@
 
 📧 **Email**: [satyamkodale@gmail.com](mailto:satyamkodale@gmail.com) |
 👔 **Linkedin**: https://www.linkedin.com/in/satyamkodale
+ **Leecode**: https://leetcode.com/u/satyamkodale24/
 
