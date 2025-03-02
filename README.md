@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-## Portfolio site: [prathamesh-ghatole.github.io](https://prathamesh-ghatole.github.io/)!
+## Portfolio site: [satyamkodale.vercel.app/](https://satyamkodale.vercel.app/)!
 
 ### ☎️ Contact:
 📧 **Email**: [prathamesh.s.ghatole@gmail.com](mailto:prathamesh.s.ghatole@gmail.com) | [prathamesh.ghatole.ai@ghrcem.raisoni.net](mailto:prathamesh.ghatole@ieee.org)
