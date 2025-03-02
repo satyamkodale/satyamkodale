@@ -9,9 +9,5 @@
 
 ### ☎️ Contact:
 📧 **Email**: [satyamkodale@gmail.com](mailto:satyamkodale@gmail.com)] |
-👔 **Linkedin**: https://www.linkedin.com/in/prathamesh-ghatole
-
-🐦 **Twitter**: https://twitter.com/PrathameshG69
-
-💻 **GitHub**: https://github.com/Prathamesh-Ghatole/
+👔 **Linkedin**: https://www.linkedin.com/in/satyamkodale
 
