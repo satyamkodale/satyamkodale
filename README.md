@@ -8,8 +8,7 @@
 ## Portfolio site: [satyamkodale.vercel.app/](https://satyamkodale.vercel.app/)!
 
 ### ☎️ Contact:
-📧 **Email**: [prathamesh.s.ghatole@gmail.com](mailto:prathamesh.s.ghatole@gmail.com) | [prathamesh.ghatole.ai@ghrcem.raisoni.net](mailto:prathamesh.ghatole@ieee.org)
-
+📧 **Email**: [satyamkodale@gmail.com](mailto:satyamkodale@gmail.com)]
 👔 **Linkedin**: https://www.linkedin.com/in/prathamesh-ghatole
 
 🐦 **Twitter**: https://twitter.com/PrathameshG69
