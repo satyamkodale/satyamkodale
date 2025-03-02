@@ -6,6 +6,6 @@
 ## Portfolio site: [satyamkodale.vercel.app/](https://satyamkodale.vercel.app/)
 
 ### ☎️ Contact:
-📧 **Email**: [satyamkodale@gmail.com(mailto:satyamkodale@gmail.com)] |
+📧 **Email**: [satyamkodale@gmail.com](mailto:satyamkodale@gmail.com) |
 👔 **Linkedin**: https://www.linkedin.com/in/satyamkodale
 
