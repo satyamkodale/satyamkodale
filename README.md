@@ -1,5 +1,7 @@
 <img src="https://imgur.com/a/lVYTPZU"/>
 
+![Image](https://github.com/user-attachments/assets/56aa84b2-9e9a-4e17-95f3-1b04c377e61b)
+
 ## Hi there 👋
 
 <!--
