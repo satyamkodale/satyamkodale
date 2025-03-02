@@ -1,5 +1,6 @@
 <img src="![Image](https://github.com/user-attachments/assets/56aa84b2-9e9a-4e17-95f3-1b04c377e61b)"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ABHINAND+P+N;Backend+devloper+Go-Lang;Passionate+In+DevOps;Also+Learn+REACT)](https://git.io/typing-svg)
 ![Image](https://github.com/user-attachments/assets/56aa84b2-9e9a-4e17-95f3-1b04c377e61b)
 
 ## Hi there 👋
